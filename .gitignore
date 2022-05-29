@@ -130,3 +130,6 @@ dmypy.json
 
 # MAC 0S
 *.DS_Store
+
+# Projects
+*Инструкция*
