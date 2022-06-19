@@ -133,5 +133,5 @@ dmypy.json
 
 # Projects
 *Инструкция*
-*features.csv*
+*data/features*
 examples/
