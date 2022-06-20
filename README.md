@@ -1,2 +1,2 @@
-# RecSys-Megafon
-Recommender System in Megafon
+# Megafon
+Machine Learning System in Megafon
