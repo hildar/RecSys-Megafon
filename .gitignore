@@ -136,3 +136,5 @@ dmypy.json
 *data/features*
 *.parquet
 examples/
+catboost_info/
+
