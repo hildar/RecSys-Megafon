@@ -134,4 +134,5 @@ dmypy.json
 # Projects
 *Инструкция*
 *data/features*
+*.parquet
 examples/
