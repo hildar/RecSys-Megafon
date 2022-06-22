@@ -134,7 +134,9 @@ dmypy.json
 # Projects
 *Инструкция*
 *data/features*
+*data/answers*
 *.parquet
 examples/
 catboost_info/
+
 
