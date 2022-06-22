@@ -139,5 +139,6 @@ dmypy.json
 examples/
 catboost_info/
 py/.idea/
+*Presentation-source*
 
 
