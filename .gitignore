@@ -138,5 +138,6 @@ dmypy.json
 *.parquet
 examples/
 catboost_info/
+py/.idea/
 
 
